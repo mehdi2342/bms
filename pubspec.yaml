@@ -69,7 +69,6 @@ dependencies:
   flutter_svg: ^2.4.0
   mysql_client: ^0.0.27
 
-dev_dependencies:
   
 
   # Code generation
@@ -81,9 +80,6 @@ dev_dependencies:
 
   # Linting
   flutter_lints: ^6.0.0
-
-  # Testing
-  mocktail: ^1.0.4
 
 flutter:
   uses-material-design: true
